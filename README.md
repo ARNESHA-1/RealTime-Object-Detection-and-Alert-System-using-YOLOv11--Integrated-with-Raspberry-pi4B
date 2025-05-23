@@ -1,0 +1,2 @@
+# RealTime-Object-Detection-and-Alert-System-using-YOLOv11--Integrated-with-Raspberry-pi4B
+A Real Time Object and Person detection with Dual alert system buzzer alert along with personalized email alert. Used ultralytics and YOLOv11 and  the automatic mail alert brings automation and mobility at the same time. The use of Raspberry pi increases the reliability of the overall system will accounting to portability to the whole system.
