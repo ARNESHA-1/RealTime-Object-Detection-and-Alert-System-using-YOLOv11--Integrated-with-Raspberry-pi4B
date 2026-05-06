@@ -32,14 +32,14 @@ This project combines **computer vision + IoT + automation** to create a portabl
 ### 📷 Detection Output
 
 <p align="center">
-  <img src="images/object_Detection.jpeg" width="500" height= "300"><br>
+  <img src="images/object_Detection.jpeg" width="500" height= "500"><br>
   <em>Figure 2:Object Detection </em>
 </p>
 
 ### 📷 Email Alert Sample
 
 <p align="center">
-  <img src="email_Detection/.jpeg" width="500" height= "300"><br>
+  <img src="images/email_Detection/.jpeg" width="500" height= "500"><br>
   <em>Figure 3:Email_Detection </em>
 </p>
 
