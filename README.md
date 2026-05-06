@@ -33,7 +33,7 @@ This project combines **computer vision + IoT + automation** to create a portabl
 
 ### 📷 Email Alert Sample
 
-![Email Alert](images/email_alert.png)
+![Email Alert](email_detection.jpeg)
 
 > 📁 Place your images inside a folder named `images/` in your repository.
 
