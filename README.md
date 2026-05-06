@@ -39,7 +39,7 @@ This project combines **computer vision + IoT + automation** to create a portabl
 ### 📷 Email Alert Sample
 
 <p align="center">
-  <img src="images/email_detection.jpeg" width="500" height= "500"><br>
+  <img src="images/email_detection.jpeg" width="500" height= "900"><br>
   <em>Figure 3:Email_Detection </em>
 </p>
 
