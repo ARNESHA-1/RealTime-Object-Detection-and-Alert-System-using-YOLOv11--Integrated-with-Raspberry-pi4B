@@ -43,7 +43,6 @@ This project combines **computer vision + IoT + automation** to create a portabl
   <em>Figure 3:Email_Detection </em>
 </p>
 
-> 📁 Place your images inside a folder named `images/` in your repository.
 
 ---
 
