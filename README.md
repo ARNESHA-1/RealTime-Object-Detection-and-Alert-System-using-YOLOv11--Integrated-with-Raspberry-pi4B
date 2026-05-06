@@ -24,16 +24,24 @@ This project combines **computer vision + IoT + automation** to create a portabl
 ## 🖼️ Project Demo
 
 ### 📷 System Setup
-<img src="images/setup.jpg" width="500">
-![System Setup](setup.jpeg)
+<p align="center">
+  <img src="images/setup.jpeg" width="500" height= "300"><br>
+  <em>Figure 1:Setup </em>
+</p>
 
 ### 📷 Detection Output
 
-![Detection Output](Object_Detection.jpeg)
+<p align="center">
+  <img src="images/object_Detection.jpeg" width="500" height= "300"><br>
+  <em>Figure 2:Object Detection </em>
+</p>
 
 ### 📷 Email Alert Sample
 
-![Email Alert](email_detection.jpeg)
+<p align="center">
+  <img src="email_Detection/.jpeg" width="500" height= "300"><br>
+  <em>Figure 3:Email_Detection </em>
+</p>
 
 > 📁 Place your images inside a folder named `images/` in your repository.
 
