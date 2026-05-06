@@ -24,12 +24,12 @@ This project combines **computer vision + IoT + automation** to create a portabl
 ## 🖼️ Project Demo
 
 ### 📷 System Setup
-
-![System Setup](images/setup.jpg)
+<img src="images/setup.jpg" width="500">
+![System Setup](setup.jpeg)
 
 ### 📷 Detection Output
 
-![Detection Output](images/detection.jpg)
+![Detection Output](Object_Detection.jpeg)
 
 ### 📷 Email Alert Sample
 
